@@ -5,7 +5,9 @@ Um tema Flat inspirado no Arch-Silence.
 <img src="./preview.png" width="400">
 
 1 - use o scrip install.sh
+
 2 - adicione a linha > GRUB_THEME="/boot/grub/themes/debian-silence/theme.txt" em /etc/default/grub
+
 3 - no terminal como ROOT execute update-grub ou grub-mkconfig -o /boot/grub/grub.cfg
 
 ## Font
